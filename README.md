@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @g3rmanikus
-- 👀 I’m interested in Java, Delphi
-- 🌱 I’m currently learning java
+- 👀 I’m interested in Java, Delphi, Firebird, Visual Studio Code
+- 🌱 I’m currently learning java and Visual Studio Code
 - 💞️ I’m looking to collaborate on java junior project
 - 📫 How to reach me german@sicabrera.com.ar
 
